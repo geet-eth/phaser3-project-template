@@ -12,6 +12,11 @@ Loading images via JavaScript module `import` is also supported, although not re
 
 ## Available Commands
 
+To run without downgrading node run 
+`npm install webpack@latest`
+then 
+`npm install webpack-cli@latest --force`
+
 | Command | Description |
 |---------|-------------|
 | `npm install` | Install project dependencies |
